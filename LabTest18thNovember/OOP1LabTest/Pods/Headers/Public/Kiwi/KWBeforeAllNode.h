@@ -1,0 +1,5 @@
+XSym
+0045
+e11d5ddcd99aaef0c0f827c9ac8bed7f
+../../../Kiwi/Classes/Nodes/KWBeforeAllNode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

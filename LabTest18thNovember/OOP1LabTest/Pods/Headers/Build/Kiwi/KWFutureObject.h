@@ -1,0 +1,5 @@
+XSym
+0043
+9d1aa660250ba62e193a2c942fdb63a0
+../../../Kiwi/Classes/Core/KWFutureObject.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

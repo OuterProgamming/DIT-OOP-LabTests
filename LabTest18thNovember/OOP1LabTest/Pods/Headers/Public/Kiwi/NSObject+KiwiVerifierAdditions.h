@@ -1,0 +1,5 @@
+XSym
+0059
+6d76176cc3283edd2f9109460bc87b97
+../../../Kiwi/Classes/Core/NSObject+KiwiVerifierAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

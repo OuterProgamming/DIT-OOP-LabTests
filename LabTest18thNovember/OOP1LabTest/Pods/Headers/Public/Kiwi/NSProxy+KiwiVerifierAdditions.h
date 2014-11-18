@@ -1,0 +1,5 @@
+XSym
+0058
+651a96d323a5b4362a015de06b0e7327
+../../../Kiwi/Classes/Core/NSProxy+KiwiVerifierAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

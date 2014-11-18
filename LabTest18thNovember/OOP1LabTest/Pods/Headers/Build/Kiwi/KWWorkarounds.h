@@ -1,0 +1,5 @@
+XSym
+0042
+4824cf872906ebc07b923300f082348e
+../../../Kiwi/Classes/Core/KWWorkarounds.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,0 +1,5 @@
+XSym
+0059
+26b30efc82b862417f84ed9a35dd0deb
+../../../Kiwi/Classes/Matchers/KWBeSubclassOfClassMatcher.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

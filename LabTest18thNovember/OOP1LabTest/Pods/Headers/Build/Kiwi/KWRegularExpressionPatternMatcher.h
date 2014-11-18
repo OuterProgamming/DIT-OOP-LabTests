@@ -1,0 +1,5 @@
+XSym
+0066
+d9105aff685b0f215b62bd1e923a59eb
+../../../Kiwi/Classes/Matchers/KWRegularExpressionPatternMatcher.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0041
+16753081e832147ebbca053c90340b2b
+../../../Kiwi/Classes/Core/KWDeviceInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

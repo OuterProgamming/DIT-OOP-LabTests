@@ -1,0 +1,5 @@
+XSym
+0055
+bbc76828b7d4fb3737f476fb33a36587
+../../../Kiwi/Classes/Config/KWSuiteConfigurationBase.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

@@ -1,0 +1,5 @@
+XSym
+0045
+35c6a79426f926372a77353e01f5f0e5
+../../../Kiwi/Classes/Core/KWMessagePattern.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

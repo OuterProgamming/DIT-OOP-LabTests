@@ -1,0 +1,5 @@
+XSym
+0059
+26a1a334d22882487d8919cc2ff459c7
+../../../Kiwi/Classes/Stubbing/NSObject+KiwiStubAdditions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
